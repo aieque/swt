@@ -1,0 +1,9 @@
+test_func :: (fdfds) {
+    -> `SWT!`;
+}
+
+root :: () {
+    int my_int = 4;
+
+    -> `Hello` test_func() ` It's such a cool framework!`;
+}
